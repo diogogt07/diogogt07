@@ -46,11 +46,11 @@ Sou estudante de **Engenharia de Software na PUC-Campinas** e formado como **té
 
 | Projeto | O que desenvolvi / estudei | Tecnologias |
 | :--- | :--- | :--- |
-| **🤖 Sistema multiagente para organização de tarefas** | Planejamento de atividades com agentes de IA e integração com o Google Calendar. | Python, LLMs, Google Calendar API |
-| **📰 Classificação de notícias com Machine Learning** | Experimentos de classificação de textos, comparação de modelos e análise de métricas e explicabilidade. | Python, scikit-learn, XGBoost, LightGBM, NLP |
-| **📱 MesclaInvest** | Aplicativo acadêmico voltado à apresentação de investimentos, com telas e integração com serviços de backend. | Flutter, Dart, Firebase |
+| **[🤖 Destrava — agentes para organização de tarefas](https://github.com/PresetyX/Residence_AI_Challenge-2)** | Projeto colaborativo com agentes para consultar disponibilidade e criar eventos no Google Agenda; outros agentes estão em desenvolvimento. | Python, Google Calendar API |
+| **📰 Classificação de notícias com Machine Learning** | Experimentos de classificação de textos, comparação de modelos e análise de métricas e explicabilidade. *Repositório em preparação.* | Python, scikit-learn, XGBoost, LightGBM, NLP |
+| **[📱 MesclaInvest](https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08)** | Projeto acadêmico em equipe para simulação de investimentos em startups, com aplicação Flutter e backend Firebase. | Flutter, Dart, Firebase, Node.js |
 
-> 💡 Alguns projetos são acadêmicos ou colaborativos. Conforme os repositórios forem disponibilizados publicamente, adicionarei os links e as instruções de execução.
+> 💡 Os projetos Destrava e MesclaInvest foram desenvolvidos em equipe. Os links acima apontam para os repositórios originais.
 
 ## 📊 Estatísticas e atividade
 
