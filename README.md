@@ -36,7 +36,6 @@ Sou estudante de **Engenharia de Software na PUC-Campinas** e formado como **té
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 
@@ -51,19 +50,6 @@ Sou estudante de **Engenharia de Software na PUC-Campinas** e formado como **té
 | **[📱 MesclaInvest](https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08)** | Projeto acadêmico em equipe para simulação de investimentos em startups, com aplicação Flutter e backend Firebase. | Flutter, Dart, Firebase, Node.js |
 
 > 💡 Os projetos Destrava e MesclaInvest foram desenvolvidos em equipe. Os links acima apontam para os repositórios originais.
-
-## 📊 Estatísticas e atividade
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=diogogt07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;icon_color=38BDF8" alt="Estatísticas públicas do GitHub de diogogt07" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogogt07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;langs_count=6" alt="Linguagens identificadas nos repositórios públicos de diogogt07" />
-
-  <img src="https://streak-stats.demolab.com?user=diogogt07&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="Sequência de contribuições públicas no GitHub" />
-
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=diogogt07&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="Gráfico de atividade recente no GitHub" />
-</div>
-
-> As estatísticas são geradas por serviços externos com base na atividade disponível no GitHub; podem demorar a atualizar ou ficar temporariamente indisponíveis. O gráfico de linguagens representa os repositórios analisados, não o nível de domínio de cada linguagem.
 
 ## 📫 Onde me encontrar
 
