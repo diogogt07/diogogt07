@@ -46,10 +46,10 @@ Sou estudante de **Engenharia de Software na PUC-Campinas** e formado como **té
 | Projeto | O que desenvolvi / estudei | Tecnologias |
 | :--- | :--- | :--- |
 | **[🤖 Destrava — agentes para organização de tarefas](https://github.com/PresetyX/Residence_AI_Challenge-2)** | Projeto colaborativo com agentes para consultar disponibilidade e criar eventos no Google Agenda; outros agentes estão em desenvolvimento. | Python, Google Calendar API |
-| **📰 Classificação de notícias com Machine Learning** | Experimentos de classificação de textos, comparação de modelos e análise de métricas e explicabilidade. *Repositório em preparação.* | Python, scikit-learn, XGBoost, LightGBM, NLP |
+| **[📰 C1NC0 — Classificação de notícias com Machine Learning](https://github.com/diogogt07/C1NC0)** | Projeto em equipe de apoio à leitura crítica de notícias, com análise de URLs, classificação com Naive Bayes e TF-IDF e visualização dos resultados em uma aplicação web. | Python, scikit-learn, NLP, FastAPI, React, TypeScript |
 | **[📱 MesclaInvest](https://github.com/anajuconcesilva/ES-PI3-2026-T2-G08)** | Projeto acadêmico em equipe para simulação de investimentos em startups, com aplicação Flutter e backend Firebase. | Flutter, Dart, Firebase, Node.js |
 
-> 💡 Os projetos Destrava e MesclaInvest foram desenvolvidos em equipe. Os links acima apontam para os repositórios originais.
+> 💡 Os projetos foram desenvolvidos em equipe. Destrava e MesclaInvest apontam para os repositórios originais; C1NC0 aponta para meu fork do [repositório da equipe](https://github.com/GuiPreventi/C1NC0).
 
 ## 📫 Onde me encontrar
 
