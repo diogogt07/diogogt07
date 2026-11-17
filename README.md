@@ -54,8 +54,8 @@ Sou estudante de **Engenharia de Software na PUC-Campinas** e formado como **té
 ## 📫 Onde me encontrar
 
 <div align="center">
-  <a href="https://github.com/diogogt07">
-    <img src="https://img.shields.io/badge/Meu%20GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visitar meu GitHub" />
+  <a href="https://www.linkedin.com/in/diogo-tonhosolo-1a5672428/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Visitar meu LinkedIn" />
   </a>
 </div>
 
